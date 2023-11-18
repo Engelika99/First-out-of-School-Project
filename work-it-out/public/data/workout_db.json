@@ -1,0 +1,37 @@
+{
+    "work-it-out": [
+        {
+            "id": 1,
+            "username": "user1",
+            "email": "user1@email.com",
+            "password": "passpassword",
+            "exercises": [
+                {
+                    "id": 1,
+                    "typeOfWorkout": "Calisthenics",
+                    "workoutName": "Push-ups and squats",
+                    "howManySets": 5,
+                    "howManyReps": 20,
+                    "todaysDate": "11-17-2023"
+                }
+            ],
+            "goals": [
+                {
+                    "id": 1,
+                    "goalType": "Weight Loss",
+                    "goalAmount": 50,
+                    "goalDuration": "8 months"
+                },
+                {
+                    "id" : 2,
+                    "goalType": "Strength",
+                    "goalAmount": "100 total reps",
+                    "goalDuration": "5 days a week"
+                }
+                
+            ]
+
+
+        }
+    ]
+}
